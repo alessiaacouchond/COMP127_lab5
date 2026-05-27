@@ -1,0 +1,107 @@
+body {
+  background-image: url(https://plus.unsplash.com/premium_photo-1710965560034-778eedc929ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJlYXV0aWZ1bHxlbnwwfHwwfHx8MA%3D%3D);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Arial, Verdana, sans-serif;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 20px;
+}
+
+#header {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 2px solid darkmagenta;
+}
+
+h1 {
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: pink;
+  -webkit-text-stroke: 1px darkmagenta;
+  text-align: center;
+}
+
+h2 {
+  font-family: Arial, Verdana, sans-serif;
+  font-size: 26px;
+  color: pink;
+  -webkit-text-stroke: 1px darkmagenta;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  font-size: 16px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid darkblue;
+  margin-bottom: 10px;
+}
+
+ul {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+strong {
+  color: purple;
+}
+
+.section {
+  border: 1px solid darkmagenta;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: rgba(255, 255, 255, 0.85)
+}
+
+#main-content {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 900px;
+}
+
+.highlight {
+  color: darkmagenta;
+  font-weight: bold;
+}
+
+form label {
+  font-weight: bold;
+  color: darkmagenta;
+  font-size: 15px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid darkmagenta;
+  border-radius: 4px;
+  font-size: 15px;
+  font-family: Arial, verdana, sans-serif;
+  background-color: #fff0ff;
+}
+
+form input[type="submit"] {
+  background-color: darkmagenta;
+  color: white;
+  border: none;
+  padding: 10px 24px;
+  font-size: 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background-color: purple;
+}

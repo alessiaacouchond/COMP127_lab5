@@ -1,0 +1,7 @@
+COMP 51 - Introduction to Computer Science I
+COMP 53 - Introduction to Computer Science II
+MATH 37 - Calculus I
+DATA 51 - Introduction to Data Science I
+DATA 53 - Introduction to Data Science II
+COMP 47 - Web Development
+COMP 162 - Algorithms and Data Structures
